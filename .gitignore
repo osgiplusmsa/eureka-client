@@ -20,7 +20,17 @@ out
 .settings
 .factorypath
 .metadata
-.idea
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders.idea
+
 *.iml
 
 # ignore log files
